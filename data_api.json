@@ -1,0 +1,326 @@
+{
+  "Middle+ Backend разработчик Python/Django": {
+    "salary": {
+      "from": 190000,
+      "to": 220000
+    },
+    "employer": "ЧУ ДО Московская школа программистов",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79895487"
+  },
+  "Middle Python-разработчик": {
+    "salary": {
+      "from": 140000,
+      "to": 250000
+    },
+    "employer": "AERODISK",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79382076"
+  },
+  "Разработчик Python": {
+    "salary": {
+      "from": 200000,
+      "to": 350000
+    },
+    "employer": "Кадровый центр Президент",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79917370"
+  },
+  "Python-разработчик": {
+    "salary": {
+      "from": 200000,
+      "to": null
+    },
+    "employer": "ВижнЛабс (VisionLabs)",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79208677"
+  },
+  "Middle разработчик Python / Django": {
+    "salary": {
+      "from": 60000,
+      "to": 140000
+    },
+    "employer": "РА Дельта",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78818283"
+  },
+  "Программист Python": {
+    "salary": {
+      "from": 100000,
+      "to": 120000
+    },
+    "employer": "Энсайн (Nsign.ru)",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79717231"
+  },
+  "Senior Python Developer": {
+    "salary": {
+      "from": 250000,
+      "to": null
+    },
+    "employer": "Eugene Global Consulting",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78000628"
+  },
+  "Разработчик Python (Back Python)": {
+    "salary": {
+      "from": null,
+      "to": 350000
+    },
+    "employer": "Фаворит, Международный кадровый центр",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79219903"
+  },
+  "Python разработчик (Senior)": {
+    "salary": {
+      "from": 300000,
+      "to": 400000
+    },
+    "employer": "Бизнес-Азимут",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79248533"
+  },
+  "Python разработчик": {
+    "salary": {
+      "from": null,
+      "to": 150000
+    },
+    "employer": "Wanted",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79122152"
+  },
+  "Senior Python разработчик": {
+    "salary": {
+      "from": 200000,
+      "to": 350000
+    },
+    "employer": "Carbon Soft",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78808681"
+  },
+  "Разработчик Python (Облачные технологии)": {
+    "salary": {
+      "from": 200000,
+      "to": 350000
+    },
+    "employer": "Кадровый центр Президент",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79911641"
+  },
+  "Middle Backend Developer (Python)": {
+    "salary": {
+      "from": 160000,
+      "to": null
+    },
+    "employer": "Аликсон",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79923122"
+  },
+  "Python Developer": {
+    "salary": {
+      "from": null,
+      "to": 340000
+    },
+    "employer": "Aston",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/78820290"
+  },
+  "Python программист (Наставник онлайн-курса по Python)": {
+    "salary": {
+      "from": null,
+      "to": 80000
+    },
+    "employer": "Hexlet",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/67864415"
+  },
+  "Python разработчик (middle+ - senior)": {
+    "salary": {
+      "from": 250000,
+      "to": null
+    },
+    "employer": "КСК-Эйч Ар",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/78886291"
+  },
+  "Data engineer (middle+)": {
+    "salary": {
+      "from": null,
+      "to": 400000
+    },
+    "employer": "Мамаева Ирина Анатольевна",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79882602"
+  },
+  "Backend Developer": {
+    "salary": {
+      "from": 140000,
+      "to": 210000
+    },
+    "employer": "Surf IT",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/79730278"
+  },
+  "Ментор по Python (middle+/senior)": {
+    "salary": {
+      "from": 25000,
+      "to": null
+    },
+    "employer": "Your CodeReview",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79785867"
+  },
+  "Senior Python developer": {
+    "salary": {
+      "from": null,
+      "to": 230000
+    },
+    "employer": "МедиаСофт",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/40379537"
+  },
+  "Backend-разработчик / Разработчик Python": {
+    "salary": {
+      "from": 160000,
+      "to": null
+    },
+    "employer": "Университет ИТМО",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/79419440"
+  },
+  "Middle Backend-разработчик": {
+    "salary": {
+      "from": 140000,
+      "to": null
+    },
+    "employer": "Гринатом",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79871781"
+  },
+  "Senior Python developer (SberLB)": {
+    "salary": {
+      "from": null,
+      "to": 350000
+    },
+    "employer": "SberTech",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/77296899"
+  },
+  "FullStack разработчик (Backend Python + Frontend React)": {
+    "salary": {
+      "from": 200000,
+      "to": null
+    },
+    "employer": "Hyper AdTech",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78786267"
+  },
+  "Программист Python / Инженер по машинному обучению (Computer Vision)": {
+    "salary": {
+      "from": null,
+      "to": 120000
+    },
+    "employer": "TempoJob",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79584660"
+  },
+  "Python разработчик (middle)": {
+    "salary": {
+      "from": null,
+      "to": 3700
+    },
+    "employer": "Wanted",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79122472"
+  },
+  "Full-Stack Web Developer (Python, JS)": {
+    "salary": {
+      "from": 200000,
+      "to": null
+    },
+    "employer": "Непрерывные Технологии",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78980665"
+  },
+  "Наставник курсов по Python разработке": {
+    "salary": {
+      "from": 100000,
+      "to": 150000
+    },
+    "employer": "Skyeng",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/76767074"
+  },
+  "Middle/Senior Python Developer": {
+    "salary": {
+      "from": null,
+      "to": 330000
+    },
+    "employer": "СБЕР",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78981835"
+  },
+  "Full stack developer | Python, Vue, React": {
+    "salary": {
+      "from": 40000,
+      "to": 150000
+    },
+    "employer": "Qwerty coding",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79323873"
+  },
+  "Рython Вackend developer (Middle/Senior)": {
+    "salary": {
+      "from": null,
+      "to": 250000
+    },
+    "employer": "Лаборатория Наносемантика",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/77751890"
+  },
+  "Разработчик Python для написания автоматизаций и чат-ботов (удаленная работа)": {
+    "salary": {
+      "from": null,
+      "to": 50000
+    },
+    "employer": "Богданов Денис Александрович",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79378186"
+  },
+  "Middle Python Django": {
+    "salary": {
+      "from": null,
+      "to": 160000
+    },
+    "employer": "Lipsar Studio",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79464427"
+  },
+  "Data Engineer": {
+    "salary": {
+      "from": null,
+      "to": 400000
+    },
+    "employer": "Rubbles",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/72312345"
+  },
+  "Front-end разработчик": {
+    "salary": {
+      "from": 150000,
+      "to": null
+    },
+    "employer": "UtiNet",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79716552"
+  },
+  "Middle Frontend Developer, в Сочи": {
+    "salary": {
+      "from": null,
+      "to": 150000
+    },
+    "employer": "НИИ МАСШТАБ",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/79177576"
+  }
+}
