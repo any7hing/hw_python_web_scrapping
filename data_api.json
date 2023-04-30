@@ -17,15 +17,6 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79382076"
   },
-  "Разработчик Python": {
-    "salary": {
-      "from": 200000,
-      "to": 350000
-    },
-    "employer": "Кадровый центр Президент",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/79917370"
-  },
   "Python-разработчик": {
     "salary": {
       "from": 200000,
@@ -34,6 +25,15 @@
     "employer": "ВижнЛабс (VisionLabs)",
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79208677"
+  },
+  "Разработчик Python": {
+    "salary": {
+      "from": 200000,
+      "to": 350000
+    },
+    "employer": "Кадровый центр Президент",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79917370"
   },
   "Middle разработчик Python / Django": {
     "salary": {
@@ -53,24 +53,6 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79717231"
   },
-  "Senior Python Developer": {
-    "salary": {
-      "from": 250000,
-      "to": null
-    },
-    "employer": "Eugene Global Consulting",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/78000628"
-  },
-  "Разработчик Python (Back Python)": {
-    "salary": {
-      "from": null,
-      "to": 350000
-    },
-    "employer": "Фаворит, Международный кадровый центр",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/79219903"
-  },
   "Python разработчик (Senior)": {
     "salary": {
       "from": 300000,
@@ -89,6 +71,24 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79122152"
   },
+  "Senior Python Developer": {
+    "salary": {
+      "from": 250000,
+      "to": null
+    },
+    "employer": "Eugene Global Consulting",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78000628"
+  },
+  "Разработчик Python (Back Python)": {
+    "salary": {
+      "from": null,
+      "to": 350000
+    },
+    "employer": "Фаворит, Международный кадровый центр",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79219903"
+  },
   "Senior Python разработчик": {
     "salary": {
       "from": 200000,
@@ -97,15 +97,6 @@
     "employer": "Carbon Soft",
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/78808681"
-  },
-  "Разработчик Python (Облачные технологии)": {
-    "salary": {
-      "from": 200000,
-      "to": 350000
-    },
-    "employer": "Кадровый центр Президент",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/79911641"
   },
   "Middle Backend Developer (Python)": {
     "salary": {
@@ -116,14 +107,14 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79923122"
   },
-  "Python Developer": {
+  "Разработчик Python (Облачные технологии)": {
     "salary": {
-      "from": null,
-      "to": 340000
+      "from": 200000,
+      "to": 350000
     },
-    "employer": "Aston",
-    "city": "Санкт-Петербург",
-    "URL": "https://hh.ru/vacancy/78820290"
+    "employer": "Кадровый центр Президент",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/79911641"
   },
   "Python программист (Наставник онлайн-курса по Python)": {
     "salary": {
@@ -134,14 +125,14 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/67864415"
   },
-  "Python разработчик (middle+ - senior)": {
+  "Python Developer": {
     "salary": {
-      "from": 250000,
-      "to": null
+      "from": null,
+      "to": 340000
     },
-    "employer": "КСК-Эйч Ар",
+    "employer": "Aston",
     "city": "Санкт-Петербург",
-    "URL": "https://hh.ru/vacancy/78886291"
+    "URL": "https://hh.ru/vacancy/78820290"
   },
   "Data engineer (middle+)": {
     "salary": {
@@ -151,6 +142,24 @@
     "employer": "Мамаева Ирина Анатольевна",
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79882602"
+  },
+  "Senior Python developer": {
+    "salary": {
+      "from": null,
+      "to": 230000
+    },
+    "employer": "МедиаСофт",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/40379537"
+  },
+  "Python разработчик (middle+ - senior)": {
+    "salary": {
+      "from": 250000,
+      "to": null
+    },
+    "employer": "КСК-Эйч Ар",
+    "city": "Санкт-Петербург",
+    "URL": "https://hh.ru/vacancy/78886291"
   },
   "Backend Developer": {
     "salary": {
@@ -170,15 +179,6 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79785867"
   },
-  "Senior Python developer": {
-    "salary": {
-      "from": null,
-      "to": 230000
-    },
-    "employer": "МедиаСофт",
-    "city": "Санкт-Петербург",
-    "URL": "https://hh.ru/vacancy/40379537"
-  },
   "Backend-разработчик / Разработчик Python": {
     "salary": {
       "from": 160000,
@@ -197,15 +197,6 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79871781"
   },
-  "Senior Python developer (SberLB)": {
-    "salary": {
-      "from": null,
-      "to": 350000
-    },
-    "employer": "SberTech",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/77296899"
-  },
   "FullStack разработчик (Backend Python + Frontend React)": {
     "salary": {
       "from": 200000,
@@ -214,6 +205,15 @@
     "employer": "Hyper AdTech",
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/78786267"
+  },
+  "Senior Python developer (SberLB)": {
+    "salary": {
+      "from": null,
+      "to": 350000
+    },
+    "employer": "SberTech",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/77296899"
   },
   "Программист Python / Инженер по машинному обучению (Computer Vision)": {
     "salary": {
@@ -233,6 +233,15 @@
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/79122472"
   },
+  "Middle/Senior Python Developer": {
+    "salary": {
+      "from": null,
+      "to": 330000
+    },
+    "employer": "СБЕР",
+    "city": "Москва",
+    "URL": "https://hh.ru/vacancy/78981835"
+  },
   "Full-Stack Web Developer (Python, JS)": {
     "salary": {
       "from": 200000,
@@ -250,15 +259,6 @@
     "employer": "Skyeng",
     "city": "Москва",
     "URL": "https://hh.ru/vacancy/76767074"
-  },
-  "Middle/Senior Python Developer": {
-    "salary": {
-      "from": null,
-      "to": 330000
-    },
-    "employer": "СБЕР",
-    "city": "Москва",
-    "URL": "https://hh.ru/vacancy/78981835"
   },
   "Full stack developer | Python, Vue, React": {
     "salary": {
